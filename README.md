@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Game devlopment
 - 💞️ I’m looking to collaborate on some good projects that will enhance my experience and skills. 
 - 📫 To contact: email - harshyadav2415@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
