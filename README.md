@@ -1,5 +1,6 @@
 ## Hi there 👋 
-## I’m Harsh Yadav, B.Tech CSE (2nd Year) - Unity Game Developer | Programmer | Tech Enthusiast.
+## I’m Harsh Yadav, 
+B.Tech CSE (2nd Year) - Unity Game Developer | Programmer | Tech Enthusiast.
 
 I like to develop things regardless of it's complexcity.
 
