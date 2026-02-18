@@ -4,7 +4,7 @@ B.Tech CSE (2nd Year) - Unity Game Developer | Programmer | Tech Enthusiast.
 
 I like to develop things regardless of it's complexcity.
 
-My main tech stack is Game Development, Backend Development and . My favorite tools are figma, unity game engine, 
+My main tech stack is Game Development and Backend Development.
 
 Currently i have less projects but will be building more in future.
 
